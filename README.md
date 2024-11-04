@@ -19,3 +19,7 @@ Instructions on how to install and set up the project locally:
 1. Clone the repository:
    ```bash
    git clone git@github.com:yourusername/your-repo-name.git
+
+
+## Neural Tangent Kernels
+Paper Inspiration: https://arxiv.org/pdf/1912.02803
