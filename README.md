@@ -12,8 +12,7 @@ A brief description of what this project does and who it's for.
 - [Contact](#contact)
 
 ## Overview
-to be continued
-
+In the code, I will alternate between code and mathematics, walking through my understanding of each concept, utilizing a code whenever I need to run a computation. 
 
 ## Installation
 Instructions on how to install and set up the project locally:
