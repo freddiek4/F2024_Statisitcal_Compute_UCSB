@@ -1,0 +1,22 @@
+{
+	"name": "VS Code Jupyter Container",
+	"build": {
+	  "dockerfile": "Dockerfile",
+	  "context": ".."
+	},
+	"customizations": {
+	  "vscode": {
+		"settings": {
+		  "terminal.integrated.shell.linux": "/bin/bash"
+		},
+		"extensions": [
+		  "ms-python.python",
+		  "ms-toolsai.jupyter",
+		  "ms-azuretools.vscode-docker"
+		]
+	  }
+	},
+	"forwardPorts": [8888],
+	"workspaceFolder": "/workspace",
+	"postCreateCommand": "pip install jupyterlab"
+  }
