@@ -2,3 +2,5 @@
 
 
 CDF - cumulative distribution function just means you add up the probabilities (see left to right)
+
+Standard Normal Distribution always has mean 0 and standard deviation 1
