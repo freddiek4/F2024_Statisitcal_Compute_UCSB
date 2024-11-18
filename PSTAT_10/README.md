@@ -4,3 +4,5 @@
 CDF - cumulative distribution function just means you add up the probabilities (see left to right)
 
 Standard Normal Distribution always has mean 0 and standard deviation 1
+
+A normal distribution can have any mean and any standard deviation. The Z-score transformation is what allows us to standardize it, scaling any normal distribution down to a standard normal distribution with:
