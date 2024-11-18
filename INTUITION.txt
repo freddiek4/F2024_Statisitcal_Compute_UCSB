@@ -1,0 +1,9 @@
+How to Spot When to Use binomial distribution formula?
+
+Ask yourself:
+	1.	Am I repeating the same action multiple times (fixed trials)?
+	2.	Do I care about counting how many times a specific outcome happens (e.g., “heads”)?
+	3.	Are there only two outcomes for each trial (success/failure)?
+	4.	Is the chance of success constant for each trial?
+
+If yes to all, use the binomial distribution formula!
