@@ -26,12 +26,14 @@ A collection of code and resources from **Professor Krishnagopal's CS 292F** cou
 
 ---
 
+
 ## **Installation**
 To clone this repository, use:
 
 ```bash
 git clone https://github.com/yourusername/F2024_Statistical_Compute_UCSB.git
+```
 
-<img width="1153" alt="ML_Math_Function_Graphs" src="https://github.com/user-attachments/assets/4090449c-173d-438e-a74b-3dbed6c560e6">
+<img width="1153" alt="ML_Math_Function_Graphs" src="https://github.com/user-attachments/assets/6436d2b1-83bf-49f0-b096-bae2a2731fae">
 
 
