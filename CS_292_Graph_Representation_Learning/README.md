@@ -31,3 +31,7 @@ To clone this repository, use:
 
 ```bash
 git clone https://github.com/yourusername/F2024_Statistical_Compute_UCSB.git
+
+<img width="1153" alt="ML_Math_Function_Graphs" src="https://github.com/user-attachments/assets/4090449c-173d-438e-a74b-3dbed6c560e6">
+
+
