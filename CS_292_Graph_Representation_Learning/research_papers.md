@@ -40,3 +40,8 @@ GRAPH CONVOLUTIONAL NETWORKS)[https://openreview.net/pdf?id=SJU4ayYgl]
 Fusing Graph Neural Networks with Graph Kernels)[https://proceedings.neurips.cc/paper_files/paper/2019/file/663fd3c5144fd10bd5ca6611a9a5b92d-Paper.pdf]
 
 Background on the Neural Tangent Kernel (here)[https://en.wikipedia.org/wiki/Neural_tangent_kernel]
+
+
+![image](https://github.com/user-attachments/assets/4c793ad9-28cd-4598-8a3a-f5509f99b943)
+
+
