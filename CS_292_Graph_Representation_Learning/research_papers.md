@@ -1,4 +1,4 @@
-Concepts covered in detal:
+Concepts covered in detail:
 
 Generative adversarial network
 Kullback–Leibler divergence
